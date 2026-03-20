@@ -1,4 +1,4 @@
-```markdown
+
 # Student Dropout Prediction
 
 ## Project Description
