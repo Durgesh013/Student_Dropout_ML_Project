@@ -90,7 +90,6 @@ F1-score: 0.58
 
 ## 📉 Confusion Matrix
 <img src="https://raw.githubusercontent.com/Durgesh013/Student_Dropout_ML_Project/main/images/Confusion-Matrix.png" width="600">
-
 ---
 
 ## 📈 ROC Curve (AUC ≈ 0.82)
