@@ -62,7 +62,7 @@ AUC = 0.8201573428041276
 
 ### Precision-Recall Curve
 ![Precision-Recall Curve](images/precision_recall_curve.png)
-```
+
 ## Summary:
 
 ### Data Analysis Key Findings
