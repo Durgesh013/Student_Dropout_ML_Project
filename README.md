@@ -55,7 +55,7 @@ weighted avg       0.80      0.75      0.76      1804
  [ 114  321]]
 ```
 <img src="https://raw.githubusercontent.com/<Durgesh013>/Student-Dropout-ml-project/main/images/confusion_matrix.png" width="600">
-
+<img src="images/confusion_matrix.png" width="600">
 ### ROC Curve
 AUC = 0.8201573428041276
 <img src="https://raw.githubusercontent.com/<Durgesh013>/Student-Dropout-ml-project/main/images/roc_curve.png" width="600">
