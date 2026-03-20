@@ -54,15 +54,15 @@ weighted avg       0.80      0.75      0.76      1804
 [[1025  344]
  [ 114  321]]
 ```
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](./images/confusion_matrix.png)
 
 ### ROC Curve
 AUC = 0.8201573428041276
-![ROC Curve](images/roc_curve.png)
+
+![ROC Curve](./images/roc_curve.png)
 
 ### Precision-Recall Curve
-![Precision-Recall Curve](images/precision_recall_curve.png)
-
+![Precision-Recall Curve](./images/precision_recall_curve.png)
 ## Summary:
 
 ### Data Analysis Key Findings
